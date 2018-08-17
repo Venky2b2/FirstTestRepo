@@ -1,4 +1,4 @@
-package io.github.test;
+package github;
 
 public class HelloWorld {
 	public static void main(String[] args) {
